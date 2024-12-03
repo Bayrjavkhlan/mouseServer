@@ -1,5 +1,5 @@
 const WebSocket = require("ws");
-const { mouse, Point } = require("@nut-tree/nut-js");
+const { mouse, Point } = require("@nut-tree-fork/nut-js");
 
 // Optionally, set the mouse speed for nut.js
 mouse.config.mouseSpeed = 500;
